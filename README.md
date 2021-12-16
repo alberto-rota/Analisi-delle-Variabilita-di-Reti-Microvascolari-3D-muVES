@@ -1,5 +1,5 @@
 # Analisi delle variabilità delle caratteristiche di reti microvascolari 3D
-BSc Thesis in Biomedical Engineering @ Politecnico di Milano
+BSc Thesis in Biomedical Engineering @ Politecnico di Milano, 2020
 ***
 Authors: **Alberto Rota**, Martina Senesi, Adelaide Stucchi, Irene Venturelli
 Supervisors: Prof. Maria Laura Costantino, _PhD_, Prof. Luca Possenti, _PhD_
