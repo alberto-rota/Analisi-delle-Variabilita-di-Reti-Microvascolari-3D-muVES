@@ -4,6 +4,10 @@ BSc Thesis in Biomedical Engineering @ Politecnico di Milano, 2020
 Authors: **Alberto Rota**, Martina Senesi, Adelaide Stucchi, Irene Venturelli
 Supervisors: Prof. Maria Laura Costantino, _PhD_, Prof. Luca Possenti, _PhD_
 ***
+**The algorithm developed in this thesis (muVES) has been developped further and is available at ![this repository](https://github.com/alberto-rota/muVES)**
+
+*NOTE: This repository might be private. The code may be available by ![contacting the author](mailto:alberto_rota@outlook.com)*
+***
 ## Abstract
 The recent development of the Organ-on-Chip technology and, in particular microfluidic devices, has revealed the need for methods providing accurate and quick results, for both morphological and topological analyses.
 The aim of this work is to develop a computational analysis method applicable to 3D microvascular networks of any size, resolution and morphology, which also calculates the significant quantitative parameters. The three-dimensional volume obtained from confocal microscopy is used as a starting point for the segmentation and then for the skeletonization of the network, which provides a good topological representation of the vasculature. From these bases is possible to obtain morphological parameters, including the radius, length and tortuosity of each branch with their network-related distributions as a whole. This algorithm also allows to interface the analyzed vessel structure with a software for the fluid-dynamic study of the network.
