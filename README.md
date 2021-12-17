@@ -4,9 +4,9 @@ BSc Thesis in Biomedical Engineering @ Politecnico di Milano, 2020
 Authors: **Alberto Rota**, Martina Senesi, Adelaide Stucchi, Irene Venturelli
 Supervisors: Prof. Maria Laura Costantino, _PhD_, Prof. Luca Possenti, _PhD_
 ***
-**The algorithm developed in this thesis (muVES) has been developped further and is available at ![this repository](https://github.com/alberto-rota/muVES)**
+**NOTE: The algorithm developed in this thesis (muVES) has been developped further and is available at ![this repository](https://github.com/alberto-rota/muVES)**
 
-*NOTE: This repository might be private. The code may be available by ![contacting the author](mailto:alberto_rota@outlook.com)*
+*This repository might be private. The code may be available by [contacting the author](mailto:alberto_rota@outlook.com)*
 ***
 ## Abstract
 The recent development of the Organ-on-Chip technology and, in particular microfluidic devices, has revealed the need for methods providing accurate and quick results, for both morphological and topological analyses.
@@ -20,8 +20,8 @@ The computational method developed is universally applicable and is versatile on
 ## Copyright 
 You are free to:
 * Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material
-    The licensor cannot revoke these freedoms as long as you follow the license terms.
+* Adapt — remix, transform, and build upon the material. The licensor cannot revoke these freedoms as long as you follow the license terms.
+    
 Under the following terms:
 * Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that     suggests the licensor endorses you or your use.
 * NonCommercial — You may not use the material for commercial purposes.
