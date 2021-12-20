@@ -1,4 +1,4 @@
-# Analisi delle variabilità delle caratteristiche di reti microvascolari 3D
+# Analisi delle variabilità della morfologia di reti microvascolari 3D
 BSc Thesis in Biomedical Engineering @ Politecnico di Milano, 2020
 ***
 Authors: **Alberto Rota**, Martina Senesi, Adelaide Stucchi, Irene Venturelli
