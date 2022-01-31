@@ -4,7 +4,7 @@ BSc Thesis in Biomedical Engineering @ Politecnico di Milano, 2020
 Authors: **Alberto Rota**, Martina Senesi, Adelaide Stucchi, Irene Venturelli
 Supervisors: Prof. Maria Laura Costantino, _PhD_, Prof. Luca Possenti, _PhD_
 ***
-**NOTE: The algorithm developed in this thesis (muVES) has been developped further and is available at ![this repository](https://github.com/alberto-rota/muVES)**
+**NOTE: The algorithm developed in this thesis (muVES) has been developped further and is available at [this repository](https://github.com/alberto-rota/muVES)**
 
 *This repository might be private. The code may be available by [contacting the author](mailto:alberto_rota@outlook.com)*
 ***
