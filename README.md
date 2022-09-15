@@ -3,6 +3,8 @@ BSc Thesis in Biomedical Engineering @ Politecnico di Milano, 2020
 ***
 Authors: **Alberto Rota**, Martina Senesi, Adelaide Stucchi, Irene Venturelli
 Supervisors: Prof. Maria Laura Costantino, _PhD_, Prof. Luca Possenti, _PhD_
+
+## Download the thesis from [this link](https://github.com/alberto-rota/Analisi-delle-Variabilita-di-Reti-Microvascolari-3D-muVES/raw/main/Thesis_Script.pdf)
 ***
 **NOTE: The algorithm developed in this thesis (muVES) has been developped further and is available at [this repository](https://github.com/alberto-rota/muVES)**
 
