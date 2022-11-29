@@ -8,7 +8,6 @@ Supervisors: Prof. Maria Laura Costantino, _PhD_, Prof. Luca Possenti, _PhD_
 ***
 **NOTE: The algorithm developed in this thesis (muVES) has been developped further and is available at [this repository](https://github.com/alberto-rota/muVES)**
 
-*This repository might be private. The code may be available by [contacting the author](mailto:alberto_rota@outlook.com)*
 ***
 ## Abstract
 The recent development of the Organ-on-Chip technology and, in particular microfluidic devices, has revealed the need for methods providing accurate and quick results, for both morphological and topological analyses.
